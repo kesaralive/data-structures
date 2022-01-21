@@ -2,7 +2,7 @@
 
 Hashing is a technique or process of mapping keys, values into the hash table by using a hash function.
 
-    Hashing is an improvement over Direct Access Table. The idea is to use hash function that converts a given phone number or any other key to a smaller number and uses the small number as index in a table called hash table.
+Hashing is an improvement over Direct Access Table. The idea is to use hash function that converts a given phone number or any other key to a smaller number and uses the small number as index in a table called hash table.
 
 ## Hash Function
 
